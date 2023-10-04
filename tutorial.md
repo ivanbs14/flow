@@ -19,6 +19,21 @@ O Git Flow é um modelo de fluxo de trabalho para o Git que define uma estrutura
 
    Desta forma voce também ja iniciara na branch developer.
 
+3. **Criando atualizações para o projeto**: Crie uma nova feacture para criar atualizaçoes:
+
+   ```shell
+   git flow feature start <nomeDaAtualizaçao>
+   ```
+
+   Isso irá guiá-lo por algumas configurações iniciais, como as branches padrão (e.g., `master`, `develop`) e as convenções de nomenclatura.
+
+   Desta forma voce também ja iniciara na branch developer.
+
+
+
+
+<!-- Comandos principais -->
+<!-- Comandos principais -->
 <!-- Comandos principais -->
 1. **Inicializar o Git Flow**: Para começar a usar o Git Flow em um repositório, você precisa inicializá-lo primeiro.
 
